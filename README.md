@@ -1,4 +1,4 @@
-## Welcome to John's Repo
+## Hi I'm John
 🔭 I’m currently working on ...
 
 
