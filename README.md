@@ -1,7 +1,7 @@
 ## Hi I'm John
-I'm a strong technical product leader with in depth knowledge of AI and machine learning, including hands on training of Deep Learning foundational models with frameworks such as TensorFlow and PyTorch, and led product growth with launch of v1 API/Developer platforms.
+I'm a strong technical product leader with in depth knowledge of AI and machine learning, including hands on training of Deep Learning Neural Net models with frameworks such as TensorFlow and PyTorch, and led product growth with launch of v1 API/Developer platforms.
 
-I have a Masters in Science in Computer Information Systems from Boston University, and have hands on experience with many programming languagues (Python, C, C++, Java, Basic, Pascal...) Also have early experience with SQL DBs, and application dev tools, SDKs and REST based APIs.  
+I have a Masters in Science in Computer Information Systems from Boston University, and have hands on experience with many programming languagues (Python, C, C++, Java, Basic, Pascal...) Also experience with SQL Databases, application dev tools, SDKs and REST based APIs.  
 
 Nearly 20 years of experience designing and building innovative B2B and B2C data centric products. Demonstrated track record for bringing new products to market. Recognized for collaborative leadership style, strong communication skills and the ability to consistently deliver results and insights.
 
