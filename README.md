@@ -1,5 +1,5 @@
 ## Hi I'm John
-I'm a product builder with a strong technical foundation and in depth knowledge of AI and ML infrastructure.  I have hands on experience training Deep Learning Neural Networks using frameworks such as TensorFlow and PyTorch, and have led product growth with launch of v1 API/Developer platforms.
+I'm an experienced product builder with a strong technical foundation and in depth knowledge of AI and ML infrastructure.  I have hands on experience training Deep Learning Neural Networks using frameworks such as TensorFlow and PyTorch, and have led product growth with launch of v1 API/Developer platforms.
 
 I have a Masters in Science in Computer Information Systems from Boston University, and have hands on experience with many programming languagues (Python, C, C++, Java, Basic, Pascal...) Also experience with SQL Databases, application dev tools, SDKs and REST based APIs.  
 
